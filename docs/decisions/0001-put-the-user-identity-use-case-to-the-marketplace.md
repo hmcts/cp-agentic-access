@@ -1,4 +1,4 @@
-# 0002. Put the user-identity use case to the API Marketplace formally
+# 0001. Put the user-identity use case to the API Marketplace formally
 
 **Date:** 2026-09-07
 **Status:** Accepted
